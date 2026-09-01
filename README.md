@@ -43,42 +43,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
 
----
-
-# 💼 Experiência
-
-### 📊 Residente em Análise de Dados com Inteligência Artificial
-**Pontifícia Universidade Católica (PUC)**
-
-- Tratamento e análise de dados
-- Visualização de dados
-- Inteligência Artificial
-- Desenvolvimento de soluções baseadas em dados
-
-### 🎓 Mestrado em Ciência da Computação
-**UFERSA / UERN**
-
-- Pesquisa em Sistemas de Aprendizagem Ubíqua
-- Desenvolvimento de aplicações Web
-- Engenharia de Software
-- UX e Usabilidade
-
-### 👨‍🏫 Programa de Educação Tutorial de Ciência da Computação (PETCC)
-**Universidade do Estado do Rio Grande do Norte (UERN)**
-
-- Participação em projetos de ensino, pesquisa e extensão.
-- Organização de eventos e atividades acadêmicas.
-- Desenvolvimento de projetos voltados à comunidade.
-- Trabalho em equipe.
-
-### 💻 Desenvolvimento 
-
-- React
-- Next.js
-- Java
-- PostgreSQL
-- APIs REST
-- Git/GitHub
 
 ---
 
