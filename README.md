@@ -2,22 +2,20 @@
 
 🎓 Mestranda em Ciência da Computação (UFERSA/UERN)
 
-💻 Desenvolvedora Full Stack
+💻 Desenvolvedora  | Ciência de Dados | Inteligência Artificial
 
 📍 Rio Grande do Norte - Brasil
 
 ---
 
-## 👩‍💻 Sobre mim
-
-- 🎓 Mestranda em Ciência da Computação (UFERSA/UERN)
-- 📚 Pesquisadora em Sistemas de Aprendizagem Ubíqua
-- 💻 Desenvolvimento de aplicações Web utilizando React, Next.js e Spring Boot
-- 🚀 Interesse em Engenharia de Software, UX e Desenvolvimento Full Stack
-
----
-
 ## 🚀 Tecnologias
+
+### Ciência de Dados & IA
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
 ### Front-end
 
@@ -26,32 +24,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
 
-### Back-end
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
 
 ### Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### Ferramentas
 
-Git • GitHub • VS Code • Postman • Docker
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Carolaynebarret&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolaynebarret&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌎 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/carolayne-barreto-3b092a189)
-
-📧 **carolayneb101@gmail.com**
+Git • GitHub • VS Code • Docker • Postman • Power BI
