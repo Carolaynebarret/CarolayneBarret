@@ -35,12 +35,19 @@
 Git • GitHub • VS Code • Postman • Power BI
 
 ---
-
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Carolaynebarret&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Carolaynebarret&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolaynebarret&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Carolaynebarret&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carolaynebarret&theme=tokyonight"/>
 </p>
 
 ---
